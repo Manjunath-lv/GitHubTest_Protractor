@@ -1,0 +1,16 @@
+{
+  "name": "github-test-automate",
+  "version": "1.0.0",
+  "description": "this git hub site testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "manjunatha",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "protractor-take-screenshots-on-demand": "^1.2.0"
+  }
+}
