@@ -1,4 +1,4 @@
-1) To run this test suite we need to execute the following commands.
+1) To run this test suite we need to install node js and execute the following commands.
 
 	i) npm install -g protractor
 	ii) npm install protractor-jasmine2-html-reporter --save-dev
